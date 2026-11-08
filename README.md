@@ -1,28 +1,25 @@
-
 <p align="center">
-  <img src="assets/header.svg"
-       alt="Rami Al-Azzawe — Backend Engineering, Distributed Systems, Full-Stack Development"
-       width="100%" />
+  <img src="assets/header.svg" alt="Rami Al-Azzawe — Backend Engineering, Distributed Systems, Full-Stack Development" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="assets/about.svg" alt="About Rami: University of Toronto computer science student interested in backend engineering and distributed systems" width="100%" />
+</p>
 
 ### 🚀 Currently Building
 
-**[Backlog Beater](https://github.com/razzawe/backlog-beater)** — A full-stack game library manager featuring asynchronous job processing, caching, fault tolerance, and optional AWS S3 image storage.
+**[Backlog Beater](https://github.com/razzawe/backlog-beater)** — A full-stack game library manager with asynchronous job processing, caching, fault tolerance, and optional AWS S3 image storage.
 
 *Turning my gaming backlog into an excuse to explore distributed systems.*
 
-### 🛠️ Tech Stack
+<p align="center">
+  <img src="assets/skills.svg" alt="Technologies: Java, Python, TypeScript, Spring Boot, PostgreSQL, Redis, Celery, FastAPI, Docker and AWS S3" width="100%" />
+</p>
 
-**Languages:** `Java` `Python` `TypeScript` `JavaScript` `SQL` `C`
+**Also working with:** `React` `Next.js` `JavaScript` `SQL` `Apache Kafka` `Git`
 
-**Frontend:** `React` `Next.js` `Tailwind CSS`
-
-**Backend:** `Spring Boot` `FastAPI` `Node.js` `Express.js` `Celery`
-
-**Databases & Infrastructure:** `PostgreSQL` `Redis` `Apache Kafka` `Docker` `AWS S3` `Git`
-
-### 🌐 Connect
+<p align="center">
+  <img src="assets/footer.svg" alt="Connect: github.com/razzawe, linkedin.com/in/ramialazzawe, ramialazzawe.ca" width="100%" />
+</p>
 
 [Portfolio](https://ramialazzawe.ca) · [LinkedIn](https://www.linkedin.com/in/ramialazzawe/) · [Email](mailto:rami.alazzawe@outlook.com)
