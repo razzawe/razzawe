@@ -1,13 +1,7 @@
 
-# Rami Al-Azzawe 👨‍💻
-
-**Backend Engineering · Distributed Systems · Full-Stack Development**
-
 <p align="center">
-  <img src="about.svg" alt="About Rami — Computer Science student at the University of Toronto" width="100%" />
+  <img src="about.svg" alt="Rami Al-Azzawe — Backend Engineering, Distributed Systems, Full-Stack Development" width="100%" />
 </p>
-
----
 
 ### 🚀 Currently Building
 
