@@ -1,14 +1,8 @@
-<h1 align="center">Rami Al-Azzawe 👨‍💻</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&height=45&lines=Backend+Engineering;Distributed+Systems;Full-Stack+Development"
-    alt="Backend Engineering, Distributed Systems, Full-Stack Development"
-  />
-</p>
-
-<p align="center">
-  🎓 Computer Science @ University of Toronto
+  <img src="assets/header.svg"
+       alt="Rami Al-Azzawe — Backend Engineering, Distributed Systems, Full-Stack Development"
+       width="100%" />
 </p>
 
 ---
