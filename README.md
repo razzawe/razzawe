@@ -1,25 +1,41 @@
 # Hey, I'm Rami! 👋
 
-I'm a Computer Science student at the **University of Toronto** with a strong interest in **software engineering, backend development, and distributed systems**.
+I'm a Computer Science student at the **University of Toronto** interested in **backend engineering, distributed systems, and full-stack development**.
 
-I enjoy building full-stack applications, designing reliable backend systems, and exploring how different technologies work together. I'm particularly interested in scalable architectures, concurrency, and the engineering challenges behind distributed applications.
+I enjoy building reliable applications, understanding how systems work under the hood, and tackling problems involving concurrency, caching, and asynchronous processing.
 
-### 🚀 What I'm Working On
+## Stack
 
-- **[Backlog Beater](https://github.com/razzawe/backlog-beater)** — A full-stack game library management platform built with FastAPI, PostgreSQL, Redis, Celery, Docker, and AWS S3.
-- Exploring asynchronous job processing, caching, fault tolerance, and distributed system design.
-- Continuously improving my understanding of software engineering fundamentals and system architecture.
+### Languages
 
-### 🛠️ Technologies I Work With
+[![Languages: Java, Python, TypeScript, JavaScript](https://skillicons.dev/icons?i=java,py,ts,js&theme=dark)](https://skillicons.dev)
 
-**Languages:** Java, Python, TypeScript, JavaScript, SQL
+Also: **SQL, C**
 
-**Frameworks:** Spring Boot, React, FastAPI, Node.js, Next.js
+### Frontend
 
-**Tools & Technologies:** PostgreSQL, Redis, Celery, Docker, AWS S3, Git
+[![Frontend: React, Next.js, Tailwind CSS](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark)](https://skillicons.dev)
 
-### 📫 Connect With Me
+### Backend
 
-- 🌐 **Portfolio:** [ramialazzawe.ca](https://ramialazzawe.ca)
-- 💼 **LinkedIn:** [linkedin.com/in/ramialazzawe](https://linkedin.com/in/ramialazzawe)
-- 📧 **Email:** [rami.alazzawe@outlook.com](mailto:rami.alazzawe@outlook.com)
+[![Backend: Spring Boot, FastAPI, Node.js, Express.js](https://skillicons.dev/icons?i=spring,fastapi,nodejs,express&theme=dark)](https://skillicons.dev)
+
+Also: **Celery, REST APIs**
+
+### Databases & Infrastructure
+
+[![Databases and infrastructure: PostgreSQL, Redis, Kafka, Docker, AWS, Git](https://skillicons.dev/icons?i=postgres,redis,kafka,docker,aws,git&theme=dark)](https://skillicons.dev)
+
+*AWS experience includes S3 image storage. Kafka is an area I've worked around and continue to explore.*
+
+## Featured Project
+
+### [Backlog Beater](https://github.com/razzawe/backlog-beater)
+
+A full-stack game library manager with asynchronous enrichment, PostgreSQL-backed jobs, Celery workers, Redis, caching, and optional AWS S3 image storage.
+
+I'm especially interested in the reliability problems behind the application: safe retries, duplicate delivery, worker failures, and concurrency.
+
+## Connect
+
+[Portfolio](https://ramialazzawe.ca) · [LinkedIn](https://www.linkedin.com/in/ramialazzawe/) · [Email](mailto:rami.alazzawe@outlook.com)
