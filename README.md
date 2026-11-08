@@ -1,38 +1,34 @@
-# Hey, I'm Rami! 👋
+<h1 align="center">Rami Al-Azzawe 👨‍💻</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1100&color=58A6FF&width=640&lines=Backend+engineering+%7C+Distributed+systems;Building+reliable+software%2C+one+project+at+a+time)](https://git.io/typing-svg)
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&height=45&lines=Backend+Engineering;Distributed+Systems;Full-Stack+Development"
+    alt="Backend Engineering, Distributed Systems, Full-Stack Development"
+  />
+</p>
 
-🎓 I'm a Computer Science student at the **University of Toronto**.
+<p align="center">
+  🎓 Computer Science @ University of Toronto
+</p>
 
-💻 I'm interested in **backend engineering, distributed systems, and full-stack development**. I enjoy building things, solving challenging problems, and figuring out what happens when systems don't behave the way they're supposed to.
+---
 
 ### 🚀 Currently Building
 
 **[Backlog Beater](https://github.com/razzawe/backlog-beater)** — A full-stack game library manager featuring asynchronous job processing, caching, fault tolerance, and optional AWS S3 image storage.
 
-*Turning a gaming backlog into an excuse to explore distributed systems.*
+*Turning my gaming backlog into an excuse to explore distributed systems.*
 
 ### 🛠️ Tech Stack
 
-**Languages**  
-`Java` `Python` `TypeScript` `JavaScript` `SQL` `C`
+**Languages:** `Java` `Python` `TypeScript` `JavaScript` `SQL` `C`
 
-**Frontend**  
-`React` `Next.js` `Tailwind CSS`
+**Frontend:** `React` `Next.js` `Tailwind CSS`
 
-**Backend**  
-`Spring Boot` `FastAPI` `Node.js` `Express.js` `Celery`
+**Backend:** `Spring Boot` `FastAPI` `Node.js` `Express.js` `Celery`
 
-**Databases & Infrastructure**  
-`PostgreSQL` `Redis` `Apache Kafka` `Docker` `AWS S3` `Git`
+**Databases & Infrastructure:** `PostgreSQL` `Redis` `Apache Kafka` `Docker` `AWS S3` `Git`
 
-### 🧠 Things I Find Interesting
+### 🌐 Connect
 
-- Building reliable systems that handle failures gracefully.
-- Concurrency, asynchronous processing, and distributed architectures.
-- Understanding what happens behind the scenes when software scales.
-- Learning new technologies by building with them.
-
-### 🌐 Let's Connect
-
-[🌎 Portfolio](https://ramialazzawe.ca) · [💼 LinkedIn](https://linkedin.com/in/ramialazzawe) · [📫 Email](mailto:rami.alazzawe@outlook.com)
+[Portfolio](https://ramialazzawe.ca) · [LinkedIn](https://www.linkedin.com/in/ramialazzawe/) · [Email](mailto:rami.alazzawe@outlook.com)
