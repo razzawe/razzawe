@@ -1,29 +1,38 @@
 # Hey, I'm Rami! 👋
 
-I'm a Computer Science student at the **University of Toronto** interested in **software engineering, backend development, and distributed systems**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1100&color=58A6FF&width=640&lines=Backend+engineering+%7C+Distributed+systems;Building+reliable+software%2C+one+project+at+a+time)](https://git.io/typing-svg)
 
-I enjoy building full-stack applications, designing reliable backend systems, and understanding the tradeoffs behind scalable software. I'm especially interested in asynchronous processing, concurrency, caching, and fault tolerance.
+🎓 I'm a Computer Science student at the **University of Toronto**.
 
-## What I'm working on
+💻 I'm interested in **backend engineering, distributed systems, and full-stack development**. I enjoy building things, solving challenging problems, and figuring out what happens when systems don't behave the way they're supposed to.
 
-**[Backlog Beater](https://github.com/razzawe/backlog-beater)** — A full-stack game library management application built with FastAPI, PostgreSQL, Redis, Celery, Docker, and optional AWS S3 image storage.
+### 🚀 Currently Building
 
-I'm continuing to explore distributed job processing, system reliability, and backend architecture through hands-on projects.
+**[Backlog Beater](https://github.com/razzawe/backlog-beater)** — A full-stack game library manager featuring asynchronous job processing, caching, fault tolerance, and optional AWS S3 image storage.
 
-## Stack
+*Turning a gaming backlog into an excuse to explore distributed systems.*
 
-### Languages
-Java · Python · TypeScript · JavaScript · SQL · C
+### 🛠️ Tech Stack
 
-### Frontend
-React · Next.js · Tailwind CSS
+**Languages**  
+`Java` `Python` `TypeScript` `JavaScript` `SQL` `C`
 
-### Backend
-Spring Boot · FastAPI · Node.js · Express.js · Celery
+**Frontend**  
+`React` `Next.js` `Tailwind CSS`
 
-### Databases & Infrastructure
-PostgreSQL · Redis · Apache Kafka · Docker · AWS S3 · Git
+**Backend**  
+`Spring Boot` `FastAPI` `Node.js` `Express.js` `Celery`
 
-## Connect
+**Databases & Infrastructure**  
+`PostgreSQL` `Redis` `Apache Kafka` `Docker` `AWS S3` `Git`
 
-[Portfolio](https://ramialazzawe.ca) · [LinkedIn](https://www.linkedin.com/in/ramialazzawe/) · [Email](mailto:rami.alazzawe@outlook.com)
+### 🧠 Things I Find Interesting
+
+- Building reliable systems that handle failures gracefully.
+- Concurrency, asynchronous processing, and distributed architectures.
+- Understanding what happens behind the scenes when software scales.
+- Learning new technologies by building with them.
+
+### 🌐 Let's Connect
+
+[🌎 Portfolio](https://ramialazzawe.ca) · [💼 LinkedIn](https://linkedin.com/in/ramialazzawe) · [📫 Email](mailto:rami.alazzawe@outlook.com)
